@@ -1,3 +1,5 @@
+// pay.php for webshops //
+
 session_start();
         include ("db_config/db_config_backofficepro.php");
         include ("functies/functie.php");
